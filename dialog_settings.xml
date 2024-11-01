@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<item key="selection" value="getElemento"/>
+		<list key="findhistory">
+			<item value="getElemento"/>
+			<item value="isDuplicate"/>
+			<item value="pokemons_deleta"/>
+			<item value="tb_pokemons_deletados"/>
+			<item value="trabalho.tb_pokemons_deletados"/>
+			<item value="result"/>
+			<item value="rs1"/>
+			<item value="pst_insert_fogo"/>
+			<item value="dataToMove_fogo"/>
+			<item value="dataToMove"/>
+			<item value="dataToMove_voador"/>
+			<item value="package Graphic;"/>
+			<item value="tb_pokemon"/>
+			<item value="tb_pokemon_eletrico"/>
+			<item value="Elétrico"/>
+		</list>
+		<list key="replacehistory">
+			<item value="Duplicado"/>
+			<item value=""/>
+			<item value="rs"/>
+			<item value="pst_insert_voador"/>
+			<item value="dataToMove_voador"/>
+			<item value="pokemon"/>
+			<item value="setpokemon"/>
+			<item value="listaLocalPokemon"/>
+			<item value="PokemonMODEL"/>
+			<item value="tb_pokemon"/>
+			<item value="nome"/>
+			<item value="PokemonDAO"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="773"/>
+		<item key="DIALOG_Y_ORIGIN" value="330"/>
+		<item key="DIALOG_WIDTH" value="414"/>
+		<item key="DIALOG_HEIGHT" value="361"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>
